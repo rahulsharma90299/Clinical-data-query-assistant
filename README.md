@@ -86,6 +86,13 @@ python -m streamlit run streamlit_app.py
 Open the application at `http://localhost:8501`.
 
 ---
+## Demo Questions
+1. What is SAE reconciliation?
+2. What is AE?
+3. Explain AE vs SAE?
+4. What is the recommended dose of ciprofloxacin?
+5. What is the weather in Mumbai?
+
 
 ## Disclaimer
 
