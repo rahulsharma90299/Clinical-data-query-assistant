@@ -1,0 +1,20 @@
+# Clinical Data Management Reference
+Educational example only — not an official SOP or clinical guidance.
+
+## Clinical Data Query
+A clinical data query is a request to clarify, correct, or verify information recorded in clinical trial data. Queries may be raised when data are missing, inconsistent, unclear, or outside expected ranges.
+
+## Pending Query
+For this educational example, a pending query is a query that has been raised but has not yet received a final resolution. Its precise status definition depends on the study's data management procedures and system configuration.
+
+## Adverse Event (AE)
+An adverse event is an unfavorable medical occurrence in a participant who receives a medicinal product. An adverse event does not necessarily have a causal relationship with the treatment.
+
+## Serious Adverse Event (SAE)
+A serious adverse event is an adverse event that meets one or more regulatory seriousness criteria, such as death, a life-threatening event, hospitalization, significant disability, or another medically important event. Exact criteria should be checked against applicable regulations and study procedures.
+
+## SAE Reconciliation
+SAE reconciliation is the process of comparing serious adverse event information between relevant data sources, such as the clinical database and the safety database, to identify discrepancies and support their resolution.
+
+## Database Lock
+Database lock is a controlled milestone after required data cleaning and review activities are completed and the database is formally locked against ordinary changes, according to approved study procedures.
